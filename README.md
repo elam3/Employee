@@ -1,20 +1,8 @@
 # Polymorphism Assignment
 
-## Table of Contents
-* [Specififcation](#specification)
-* [Design Decisions](#design-decisions)
-
----
-
 ## Specification
 
 Create a driver file from where you dynamically call inherited classes to calculate their wage and print paycheck statements.
-
----
-
-## Design Decisions
-
-`hoursWorked` is a double to allow entries like `3.14` for someone who worked 3 hours and 8.4 minutes, especially for someone working an hourly wage.
 
 ---
 
